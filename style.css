@@ -1,0 +1,12 @@
+div{
+    background-color:rgb(205, 110, 0);
+    width: 500px;
+    padding: 50px;
+    margin: 20px;
+    text-align: centre;
+    text-transform: uppercase;
+    box-shadow: 5px 10px 15px 20px rgb(8, 1, 43);
+}
+p{
+    border: 5px solid black;
+}
